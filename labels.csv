@@ -1,0 +1,83 @@
+index,name
+0,Angiogram
+1,Arterial Doppler
+2,Audiogram
+3,Bilat LE Doppler
+4,Breast Biopsy
+5,CT Scan
+6,Cardiac catheterization
+7,Carotid Doppler
+8,Carotid Duplex
+9,Carotid Ultrasound
+10,Cologuard
+11,Colonoscopy
+12,Colposcopy
+13,Consults
+14,Dexa Scan
+15,Discharge Summary
+16,Doppler
+17,EEG
+18,EGD
+19,EMG
+20,Echocardiogram
+21,Emergency
+22,Endoscopy
+23,Event Monitor
+24,Eye Exam
+25,Fibroscan
+26,Foot Exam
+27,Holter monitor
+28,Home Health
+29,Hospital Records
+30,Injection
+31,Lab Results
+32,Lexiscan
+33,MRA
+34,MRI
+35,Mammogram
+36,PET
+37,PFT
+38,Pap Smear
+39,Sigmoidoscopy
+40,Sleep Study
+41,Stress Test
+42,Tilt Test
+43,Ultrasound
+44,Venous Doppler
+45,X-Ray
+46,Prior Authorization
+47,Upper Endoscopy
+48,Refills
+49,Junk
+50,School
+51,Procedure
+52,Medications
+53,Therapy
+54,Insurance Correspondence
+55,Referrals
+56,Cardiac Catheterization
+57,Telephone Calls
+58,Urgent Care
+59,Pathology
+60,Immunizations
+61,EKG
+62,Request For Medical Records
+63,Pathology
+64,Nephrostomy
+65,HIDA
+66,Hospital Admission Notification
+67,Hospital Discharge Notification
+68,Operative Note
+69,Lumbar Puncture
+70,Nursing Home Admission
+71,Appointment Notification
+72,Esophagram
+73,Bone Scan
+74,Liver Biopsy
+75,Medication Non Adherence Advisory
+76,Drug Utilization Review
+77,Hospice
+78,Medication Clarification Request
+79,Medication Utilization Review
+80,Medication Non-adherence Therapy
+81,Operative Report

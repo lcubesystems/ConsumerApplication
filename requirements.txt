@@ -1,0 +1,14 @@
+nltk
+torch
+pytesseract==0.2.6
+Werkzeug==0.15.2
+psycopg2==2.8.2
+confluent_kafka==1.0.0
+Flask==1.0.2
+pyOpenSSL==19.0.0
+Pillow==6.0.0
+config==0.4.2
+numpy==1.16.3
+pandas==0.24.2
+spacy==2.1.4
+WTForms==2.2.1
