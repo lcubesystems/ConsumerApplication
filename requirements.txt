@@ -6,7 +6,7 @@ psycopg2==2.8.2
 confluent_kafka==1.0.0
 Flask==1.0.2
 pyOpenSSL==19.0.0
-Pillow==6.0.0
+Pillow==9.3.0
 config==0.4.2
 numpy==1.16.3
 pandas==0.24.2
